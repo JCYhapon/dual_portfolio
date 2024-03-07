@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Sidebar />
-      <main className="">
+      <main className="main">
         <Home />
         <About />
         <Projects />

@@ -31,3 +31,11 @@
   transform: rotate(-180deg);
   writing-mode: vertical-rl;
 }
+
+.the__logo {
+  font-size: 30px;
+}
+
+.dot {
+  color: green;
+}

@@ -17,7 +17,7 @@ const Home = () => {
           John and Ivan<span className="dot">.</span>
         </h1>
         <span className="home__education">
-          We are an aspiring Web Developer
+          We are an aspiring Web Developers
         </span>
 
         <HeaderSocials />

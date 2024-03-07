@@ -2,10 +2,6 @@
   margin-bottom: 30px;
 }
 
-.work {
-  height: 100vh;
-}
-
 .work__filters {
   display: flex;
   align-items: center;
